@@ -1,0 +1,6 @@
+.info-div
+{
+	text-align:center;
+	margin-top:150px; 
+	height:calc(100% - 150px);
+}

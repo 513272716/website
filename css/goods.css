@@ -1,0 +1,18 @@
+.info-div
+{
+	margin-top:150px;
+	height:calc(100% - 250px);
+	border:1px solid red;
+	border-radius:15px;
+	margin-left:6%;
+}
+.info-div-head
+{
+	text-align:center;
+	height: 60px;
+}
+.info-div-z h5
+{
+	padding-left:15px; 
+	padding-right:15px; 
+}

@@ -1,0 +1,21 @@
+.slide
+{
+	height:100%;
+}
+.carousel-inner
+{
+	height:100%;
+}
+.carousel-inner img
+{
+	height:100%;
+	width:100%;
+}
+.item
+{
+	height:100%;
+}
+.carousel-caption h2
+{
+	color:#000000;
+}
