@@ -15,10 +15,10 @@ function jump(type)
         	window.location.href="Introduction.html";
         break;
         case 5:
-        	window.location.href="join.html";
+        	window.location.href="Join.html";
         break;
         case 6:
-        	window.location.href="join.html";
+        	window.location.href="Join.html";
         break;
     }
 }
